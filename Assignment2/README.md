@@ -1,6 +1,12 @@
 ### **Project Report: Fashion MNIST & Lena Image Clustering for Exploration and Compression**
 
+## **1. Suitable Name for the Project**
+**Fashion MNIST & Lena: Clustering for Pattern Discovery and Compression**
 
+## **2. Project Title**
+**Exploring Clustering Techniques for Image Analysis: Data Exploration & Compression**
+
+## **3. Project Description**
 This project investigates the use of clustering techniques in two different applications:  
 1. **Clustering for Data Exploration** - Using Fashion MNIST, we group similar clothing items to understand patterns in the dataset.  
 2. **Image Compression via Color Quantization** - Using the Lena image, we apply clustering to reduce the number of colors, achieving compression.
@@ -9,7 +15,7 @@ We employ **Agglomerative Clustering, Gaussian Mixture Models (GMM), and DBSCAN*
 
 ---
 
-## **Overview Description with Key Steps**
+## **4. Overview Description with Key Steps**
 The workflow of this project includes:
 
 1. **Data Preprocessing:**
@@ -32,7 +38,7 @@ The workflow of this project includes:
 
 ---
 
-## **Goals**
+## **5. Goals**
 ### **Primary Goal**
 - Explore clustering techniques for grouping images and color quantization.
 
@@ -50,7 +56,7 @@ The workflow of this project includes:
 
 ---
 
-## **Results**
+## **6. Results**
 ### **Key Findings**
 - **Agglomerative Clustering with 10 clusters** provided the best separation in Fashion MNIST.
 - **Gaussian Mixture Models (GMM)** captured meaningful cluster centers, with improved interpretability.
@@ -60,7 +66,19 @@ The workflow of this project includes:
 
 ---
 
-## **Tech Stack & Algorithms Used**
+## **7. Results Pointers (2-3 Key Findings)**
+1. **GMM produced the best-defined clusters for Fashion MNIST.**  
+   - Cluster centers resembled actual clothing items, capturing different styles.
+
+2. **DBSCAN performed inconsistently on image data.**  
+   - The Rand Index scores for DBSCAN were moderate (~0.52), suggesting suboptimal clustering.
+
+3. **K-Means compression reduced colors efficiently.**  
+   - Using **K=4 resulted in a compressed image with high efficiency**, while **K=10 preserved more detail**.
+
+---
+
+## **8. Tech Stack & Algorithms Used**
 ### **Libraries & Tools**
 - **Pandas, Matplotlib, NumPy** - Data processing and visualization.
 - **Scikit-learn** - Clustering algorithms and evaluation metrics.
