@@ -6,3 +6,4 @@ Machine Learning for Business Analyst Assignments and Projects
 3. Customer Churn Prediction Using SVM & Logistic Regression
 4. MLP vs. Gradient Boosting: A Comparative Analysis for Regression and Classification
 5. Naive Bayes Classification on German Credit Card Data
+6. Ensemble Learning for Bank Churn Prediction
