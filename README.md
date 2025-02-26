@@ -7,3 +7,4 @@ Machine Learning for Business Analyst Assignments and Projects
 4. MLP vs. Gradient Boosting: A Comparative Analysis for Regression and Classification
 5. Naive Bayes Classification on German Credit Card Data
 6. Ensemble Learning for Bank Churn Prediction
+7. Sentiment Analysis on Yelp Reviews Using Naive Bayes
