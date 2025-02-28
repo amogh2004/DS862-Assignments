@@ -9,3 +9,4 @@ Machine Learning for Business Analyst Assignments and Projects
 6. Ensemble Learning for Bank Churn Prediction
 7. Sentiment Analysis on Yelp Reviews Using Naive Bayes
 8. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
+9. Book Recommendation System Using Collaborative Filtering and Matrix Factorization
