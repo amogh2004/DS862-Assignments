@@ -12,3 +12,4 @@ Machine Learning for Business Analyst Assignments and Projects
 9. Book Recommendation System Using Collaborative Filtering and Matrix Factorization
 10. Extra Credit: License Plate Character and Digit Recognition Using CNNs
 11. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
+12. Project: The Influence of Credit Limit Variability on Credit Score Tiers
