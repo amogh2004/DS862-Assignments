@@ -18,8 +18,13 @@ Machine Learning for Business Analyst Assignments and Projects
       - Determine the best clustering approach for image grouping.
         
 3. Customer Churn Prediction Using SVM & Logistic Regression
-4. MLP vs. Gradient Boosting: A Comparative Analysis for Regression and Classification
-5. Naive Bayes Classification on German Credit Card Data
+   - Build an effective churn prediction model that accurately identifies customers likely to leave.
+   - Evaluate SVM Performance: Compare different SVM kernels (Linear, Polynomial, RBF) to determine the best-performing model.
+   - Compare Against Logistic Regression: Investigate whether regularized logistic regression can outperform SVM models in churn prediction.
+   - Optimize Model Hyperparameters: Use GridSearchCV to tune C, gamma, and kernel parameters for the best model performance.
+     
+5. MLP vs. Gradient Boosting: A Comparative Analysis for Regression and Classification
+6. Naive Bayes Classification on German Credit Card Data
 8. Ensemble Learning for Bank Churn Prediction
 9. Sentiment Analysis on Yelp Reviews Using Naive Bayes
 10. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
