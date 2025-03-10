@@ -23,8 +23,17 @@ Machine Learning for Business Analyst Assignments and Projects
    - Compare Against Logistic Regression: Investigate whether regularized logistic regression can outperform SVM models in churn prediction.
    - Optimize Model Hyperparameters: Use GridSearchCV to tune C, gamma, and kernel parameters for the best model performance.
      
-5. MLP vs. Gradient Boosting: A Comparative Analysis for Regression and Classification
-6. Naive Bayes Classification on German Credit Card Data
+4. MLP vs. Gradient Boosting: A Comparative Analysis for Regression and Classification
+   - Evaluate MLP architectures for both regression and classification and compare their performance with Gradient Boosting models.
+   - Identify the best MLP structure for regression and classification.
+   - Compare different layer depths and neuron distributions.
+   - Compare Neural Networks with Gradient Boosting.
+   - Determine whether ensemble methods outperform deep learning for structured tabular data.
+   - Optimize Performance Metrics.
+      - Regression: Use Mean Squared Error (MSE) and R² score.
+      - Classification: Use Accuracy and Mean Squared Error (MSE).
+
+5. Naive Bayes Classification on German Credit Card Data
 8. Ensemble Learning for Bank Churn Prediction
 9. Sentiment Analysis on Yelp Reviews Using Naive Bayes
 10. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
