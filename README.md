@@ -34,6 +34,16 @@ Machine Learning for Business Analyst Assignments and Projects
       - Classification: Use Accuracy and Mean Squared Error (MSE).
 
 5. Naive Bayes Classification on German Credit Card Data
+   - Build an accurate and interpretable credit risk prediction model using Naive Bayes classifiers.
+   - Compare Naive Bayes Variants:
+        - Evaluate how well each classifier (GNB, CNB, MNB) performs.
+        - Identify the best approach for credit risk classification.
+   - Feature Importance Analysis
+      - Use correlation analysis and Cramér’s V to determine the most influential features.
+      - Optimize Model Performance
+   - Tune alpha values for categorical features.
+   - Balance model performance between precision and recall.
+     
 8. Ensemble Learning for Bank Churn Prediction
 9. Sentiment Analysis on Yelp Reviews Using Naive Bayes
 10. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
