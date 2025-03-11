@@ -44,7 +44,12 @@ Machine Learning for Business Analyst Assignments and Projects
    - Tune alpha values for categorical features.
    - Balance model performance between precision and recall.
      
-8. Ensemble Learning for Bank Churn Prediction
+6. Ensemble Learning for Bank Churn Prediction
+   - Use ensemble learning to improve customer churn prediction accuracy.
+   - Evaluate the effectiveness of different ensemble methods: Compare Voting, Bagging, Boosting, and Stacking.
+   - Tune Hyperparameters for Best Performance: Optimize individual models before combining them.
+   - Compare Accuracy Between Base Learners and Ensemble Models: Identify whether ensemble models outperform individual classifiers.
+
 9. Sentiment Analysis on Yelp Reviews Using Naive Bayes
 10. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
 11. Book Recommendation System Using Collaborative Filtering and Matrix Factorization
