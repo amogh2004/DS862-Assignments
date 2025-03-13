@@ -50,7 +50,13 @@ Machine Learning for Business Analyst Assignments and Projects
    - Tune Hyperparameters for Best Performance: Optimize individual models before combining them.
    - Compare Accuracy Between Base Learners and Ensemble Models: Identify whether ensemble models outperform individual classifiers.
 
-9. Sentiment Analysis on Yelp Reviews Using Naive Bayes
+7. Sentiment Analysis on Yelp Reviews Using Naive Bayes
+   - Develop a Naive Bayes-based sentiment classification model for Yelp reviews.
+   - Compare Feature Extraction Methods: Evaluate Bag-of-Words vs. TF-IDF performance.
+   - Compare Different Naive Bayes Models: Assess MultinomialNB vs. GaussianNB for text classification.
+   - Optimize Model Performance: Tune alpha (for MNB) and var_smoothing (for GNB) using GridSearchCV.   
+
+
 10. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
 11. Book Recommendation System Using Collaborative Filtering and Matrix Factorization
 12. Extra Credit: License Plate Character and Digit Recognition Using CNNs
