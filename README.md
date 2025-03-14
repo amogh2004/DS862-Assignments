@@ -57,7 +57,12 @@ Machine Learning for Business Analyst Assignments and Projects
    - Optimize Model Performance: Tune alpha (for MNB) and var_smoothing (for GNB) using GridSearchCV.   
 
 
-10. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
+8. Uncovering News Topics: LDA vs. NMF for ABC News Headlines
+   - Extract meaningful topics from ABC News headlines using LDA and NMF.
+   - Compare LDA and NMF in topic extraction accuracy.
+   - Analyze how different feature extraction methods (BoW vs. TF-IDF) affect results.
+   - Determine the best model for news topic discovery.
+
 11. Book Recommendation System Using Collaborative Filtering and Matrix Factorization
 12. Extra Credit: License Plate Character and Digit Recognition Using CNNs
 13. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
