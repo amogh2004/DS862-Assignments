@@ -63,7 +63,12 @@ Machine Learning for Business Analyst Assignments and Projects
    - Analyze how different feature extraction methods (BoW vs. TF-IDF) affect results.
    - Determine the best model for news topic discovery.
 
-11. Book Recommendation System Using Collaborative Filtering and Matrix Factorization
+9. Book Recommendation System Using Collaborative Filtering and Matrix Factorization
+   - Develop a robust book recommendation system that provides personalized suggestions.
+   - Compare different recommendation methods: Analyze differences between User-Based, Item-Based, and Model-Based approaches.
+   - Evaluate prediction accuracy: Assess predicted ratings for books across methods.
+   - Optimize computational efficiency: Reduce the processing time for large-scale recommendation systems.
+     
 12. Extra Credit: License Plate Character and Digit Recognition Using CNNs
 13. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
 14. Project: The Influence of Credit Limit Variability on Credit Score Tiers
