@@ -69,7 +69,12 @@ Machine Learning for Business Analyst Assignments and Projects
    - Evaluate prediction accuracy: Assess predicted ratings for books across methods.
    - Optimize computational efficiency: Reduce the processing time for large-scale recommendation systems.
      
-12. Extra Credit: License Plate Character and Digit Recognition Using CNNs
-13. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
-14. Project: The Influence of Credit Limit Variability on Credit Score Tiers
-15. SVM
+10. Extra Credit: License Plate Character and Digit Recognition Using CNNs
+   - Develop a high-accuracy CNN model to classify license plate characters.
+   - Use data augmentation to improve model robustness.
+   - Optimize CNN hyperparameters for better performance.
+   - Generate a prediction file for unseen test images.
+
+14. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
+15. Project: The Influence of Credit Limit Variability on Credit Score Tiers
+16. SVM
