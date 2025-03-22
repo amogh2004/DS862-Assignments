@@ -77,4 +77,4 @@ Machine Learning for Business Analyst Assignments and Projects
 
 14. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
 15. Project: The Influence of Credit Limit Variability on Credit Score Tiers
-16. SVM
+16. SVM Model
