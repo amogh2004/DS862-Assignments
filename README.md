@@ -75,6 +75,12 @@ Machine Learning Projects for Data Analysts
    - Optimize CNN hyperparameters for better performance.
    - Generate a prediction file for unseen test images.
 
-14. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
-15. Project: The Influence of Credit Limit Variability on Credit Score Tiers
-16. SVM Model
+11. Midterm: Handling Categorical Data for Dimensionality Reduction and Clustering in Housing Prices
+   - Develop a dimensionality reduction and clustering pipeline for mixed data types in real estate price prediction.
+   - Evaluate whether dimensionality reduction improves regression performance.
+   - Assess clustering quality using Normalized Mutual Information (NMI).
+   - Compare the effectiveness of PCA + MCA vs. full feature set in Ridge Regression.
+   - Optimize the number of clusters in K-Medoids using Gower distance.
+     
+16. Project: The Influence of Credit Limit Variability on Credit Score Tiers
+17. SVM Model
