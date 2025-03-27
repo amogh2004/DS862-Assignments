@@ -82,5 +82,9 @@ Machine Learning Projects for Data Analysts
    - Compare the effectiveness of PCA + MCA vs. full feature set in Ridge Regression.
    - Optimize the number of clusters in K-Medoids using Gower distance.
      
-16. Project: The Influence of Credit Limit Variability on Credit Score Tiers
+12. Project: The Influence of Credit Limit Variability on Credit Score Tiers
+   - Predict credit score categories accurately based on financial and credit behavior.
+   - Evaluate the influence of changed_credit_limit on credit scores.
+   - Compare performance of different classification models.
+   - Use clustering to uncover hidden patterns in credit behavior.
 17. SVM Model
