@@ -1,5 +1,5 @@
 # DS862-Assignments
-Machine Learning Projects for Data Analysts
+Machine Learning Projects for Data Analyst
 
 1. Fashion MNIST Classification with Dimensionality Reduction </br>
    - Develop an effective classification model for Fashion MNIST that maximizes accuracy.
