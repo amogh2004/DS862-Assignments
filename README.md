@@ -87,4 +87,4 @@ Machine Learning Projects for Data Analyst
    - Evaluate the influence of changed_credit_limit on credit scores.
    - Compare performance of different classification models.
    - Use clustering to uncover hidden patterns in credit behavior.
-17. SVM Model
+13. SVM Model
